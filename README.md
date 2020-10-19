@@ -1,7 +1,7 @@
 # Word Count
 
 ## Endpoints
-###word counter
+### word counter
 Receives a text input and counts the number of appearances for each word in the input.
 
 supported input types: simple, path, url.
